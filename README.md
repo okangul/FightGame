@@ -19,7 +19,9 @@ Program is working fine on my computer without any bugs.
 
 FILES:
 Assingment1.rb, Char.rb, Charking.rb, Charqueen.rb, Charknight.rb, Chartroll.rb, Weaponc.rb, Weaponbna.rb, Weaponsword.rb, Weaponknife.rb, Weaponaxe.rb, README.docx
+___
 SAMPLE OUTPUT:
+___
 Which character would you like to fight?
       1: King (Speed: 4   Strength: 4  Skill: 4)
       2: Queen  (Speed: 4   Strength: 2  Skill: 6)
