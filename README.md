@@ -5,9 +5,10 @@ CS342 Design Patterns
 Fall 2015
 PROJECT 1 README FILE
 
-Due Date: 09/25/2015
 Submission Date: 09/25/2015
+
 Author(s): Okan Gul
+
 e-mail(s): ogul1@binghamton.edu
 
 PURPOSE:
